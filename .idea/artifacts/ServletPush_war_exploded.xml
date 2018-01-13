@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ServletPush:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServletPush_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ServletPush/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ServletPush" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
